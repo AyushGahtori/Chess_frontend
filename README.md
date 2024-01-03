@@ -2,6 +2,8 @@
 
 Welcome to the Multiplayer Chess Game repository! This project is an online multiplayer chess game developed in JavaScript. It consists of a frontend and a backend that work together to provide a seamless multiplayer chess experience.
 
+backend-end-repo = https://github.com/AyushGahtori/Chess_backend/
+
 ## Quick Start Guide
 
 To get started with the Multiplayer Chess Game, follow these steps:
